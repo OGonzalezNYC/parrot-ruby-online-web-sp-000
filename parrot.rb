@@ -4,3 +4,7 @@
 #   puts string 
 #   return string 
 # end
+
+def parrot(string="Squawk!")
+  
+end
